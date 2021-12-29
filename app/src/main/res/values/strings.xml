@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+
+    <string name="navigation_drawer_open">Open navigaton drawer</string>
+    <string name="navigation_drawer_close">Close navigaton drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

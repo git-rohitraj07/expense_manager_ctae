@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/expense_color"
+    app:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:layout_height="200dp">
+<TextView
+    android:layout_width="match_parent"
+    android:text="Expense"
+    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+    android:gravity="center"
+    android:textColor="@color/white"
+
+    android:layout_height="wrap_content">
+
+</TextView>
+</LinearLayout>
